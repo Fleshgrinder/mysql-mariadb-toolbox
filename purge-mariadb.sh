@@ -67,3 +67,5 @@ if [ -e /etc/apt/sources.list.d/mariadb.list ]
 fi
 
 printf -- 'MariaDB has been completely purged from the system!\n'
+
+exit 0
